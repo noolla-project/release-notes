@@ -1,4 +1,4 @@
 # release-notes
 
-- [backend](../backend.md)
-- [android](../android.md)
+- [backend](../main/backend.md)
+- [android](../main/android.md)
